@@ -1,8 +1,8 @@
 # Library-management-app
 Desktop Application in C# for library mangment that allows:
--authors to add books 
--allow users to buy books 
--allow admin to see reports about sales
+- authors to add books 
+- allow users to buy books 
+- allow admin to see reports about sales
 
 # ERD
 
